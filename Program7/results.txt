@@ -1,0 +1,8 @@
+Number bubble sort took 0.7318801 seconds to finish with 20,000 integers
+Number selection sort took 0.3611846 seconds to finish with 20,000 integers
+Number insertion sort took 0.1260554 seconds to finish with 20,000 integers
+
+String bubble sort sort took 0.8603289 seconds to finish with 10,000 Strings
+String selection sort took 0.4480725 seconds to finish with 10,000 Strings
+String insertion sort took 0.1259635 seconds to finish with 10,000 Strings
+String system sort took 0.0064371 seconds to finish with 10,000 Strings
